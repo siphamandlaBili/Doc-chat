@@ -22,7 +22,7 @@ function FileUploader() {
                         <p>Drop the files here ...</p> 
                     </>:<>
                         <CircleArrowDown className='h-20 w-20 animate-bounce'/>
-                        <p className='text-center'>Drag 'n' drop some files here, or click to select files</p>
+                        <p className='text-center'>Drag n drop some files here, or click to select files</p>
                         </>
                 }
             </div>
